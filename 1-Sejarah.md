@@ -194,3 +194,8 @@ Beberapa aplikasi standar yang pasti ada pada setiap perangkat, seperti:
 - Kalender
 - Web Browser
 - Contact Manager
+
+<br/>
+<br/>
+
+[<< Kembali](/README.md)
